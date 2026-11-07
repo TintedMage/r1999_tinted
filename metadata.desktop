@@ -1,0 +1,8 @@
+[SddmGreeterTheme]
+Name=r1999_tinted
+Description=Tinted SDDM theme based on the Reverse 1999 Qylock Theme
+Author=TintedMage
+Type=sddm-theme
+MainScript=Main.qml
+ConfigFile=theme.conf
+QtVersion=6
